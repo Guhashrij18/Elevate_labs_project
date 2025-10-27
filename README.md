@@ -59,7 +59,7 @@ By integrating Python, SQL, and Power BI, the project uncovers actionable insigh
   High-Risk Products CSV file
   Final Project Report (PDF and Word formats)
 
-Conclusion
+**Conclusion**
 
 The analysis revealed that certain product categories and payment methods contribute disproportionately to return rates.
 By combining predictive modeling with interactive visual insights, e-commerce businesses can identify high-risk products and improve operational efficiency.
